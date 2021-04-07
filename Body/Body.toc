@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {第一章}模板介绍}{1}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}重要说明}{1}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}文件说明}{1}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}已加载的宏包}{2}{subsection.1.3}% 
+\contentsline {section}{\numberline {第二章}正文要求}{3}{section.2}% 
+\contentsline {section}{\numberline {第三章}使用说明}{7}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}编译方式}{7}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}插图}{7}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}插图测试}{7}{subsubsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.3}数学公式}{7}{subsection.3.3}% 
+\contentsline {subsubsection}{\numberline {3.3.1}行内公式}{7}{subsubsection.3.3.1}% 
+\contentsline {subsubsection}{\numberline {3.3.2}行间公式}{7}{subsubsection.3.3.2}% 
+\contentsline {subsubsection}{\numberline {3.3.3}公式测试}{7}{subsubsection.3.3.3}% 
+\contentsline {subsection}{\numberline {3.4}表格}{8}{subsection.3.4}% 
+\contentsline {subsubsection}{\numberline {3.4.1}长表格测试}{8}{subsubsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.5}化学方程式}{9}{subsection.3.5}% 
+\contentsline {subsubsection}{\numberline {3.5.1}化学方程式测试}{9}{subsubsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.6}参考文献}{9}{subsection.3.6}% 
+\contentsline {section}{参考文献}{10}{subsection.3.6}% 
+\contentsline {section}{\numberline {附录A}附录测试}{11}{section.1}% 
+\contentsline {subsection}{\numberline {A.1}论文无需附录去掉该部分}{11}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {A.2}一些测试}{11}{subsection.1.2}% 
+\contentsline {section}{\numberline {附录B}冒泡排序算法}{13}{section.2}% 
+\contentsfinish 
